@@ -6,4 +6,4 @@ Enjoy the little tricks!
 
 Here are some examples!
 Original image:
-![image](http://github.com/lewkesy/README_IMAGE_STORAGE/images/puzzle_with_alpha_0.4.bmp)
+![image](http://github.com/lewkesy/README_IMAGE_STORAGE/raw/master/images/puzzle_with_alpha_0.4.bmp)
