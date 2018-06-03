@@ -6,4 +6,4 @@ Enjoy the little tricks!
 
 Here are some examples!
 Original image:
-![image](http://github.com/lewkesy/README_IMAGE_STORAGE/raw/master/images/original image.jpg)
+![image](http://github.com/lewkesy/README_IMAGE_STORAGE/raw/master/images/original_image.jpg)
